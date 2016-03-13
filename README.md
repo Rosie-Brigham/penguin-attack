@@ -11,4 +11,4 @@ So...
 3. paste in the code in penguin.js into the approriate area in your JS for penguin based fun to begin!
 Do bear in mind that if you are using another image, you may need to adjust the coordinates
 
-For a demo, go to my current travel blog (rosie-brigham.github.io) and click the icon of the seal in the top left corner on the home page
+For a demo, go to my current travel blog [rosie-brigham.github.io](rosie-brigham.github.io) and click the icon of the seal in the top left corner on the home page
