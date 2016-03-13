@@ -4,7 +4,7 @@ So the deal is there is somewhere on the page that when you click, a wee penguin
 
 So...
 
-1. find somewhere on your site which will trigger the attack (I generally use somewhere on the nav or header), and assign the correct class to it
+1. find somewhere on your site which will trigger the attack (I generally use somewhere on the nav or header), and assign the correct class to it. I have done this in penguin.html line 14
 
 2. Place a penguin image (or your own image) on the bottom of the page (I generally go under the footer) and hide it from the page with css
 
